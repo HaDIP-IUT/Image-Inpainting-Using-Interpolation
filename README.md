@@ -1,7 +1,7 @@
 # Image-Inpainting-using-Spline-interpolation
  
  
-This repository contains two folders. The first folder is the implementation of the paper ["Image-Inpainting-by-Adaptive-Fusion-of-Variable-Spline-Interpolations"](https://arxiv.org/abs/1911.00825)  and the second is the implementation of the paper ["Image-Inpainting-by-Multiscale-Spline-Interpolation"](https://arxiv.org/abs/2001.03270).
+This repository contains two folders. The first folder is the implementation of the paper ["Image-Inpainting-by-Adaptive-Fusion-of-Variable-Spline-Interpolations"](https://ieeexplore.ieee.org/document/9050116)  and the second is the implementation of the paper ["Image-Inpainting-by-Multiscale-Spline-Interpolation"](https://ieeexplore.ieee.org/document/9260846).
 
 If you find our implementations helpful in your research, please cite us.
 
