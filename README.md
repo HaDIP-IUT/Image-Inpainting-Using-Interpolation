@@ -20,7 +20,7 @@ If you find our implementations helpful in your research, please cite us.
   
   or 
   
-  https://arxiv.org/abs/1911.00825
+  arXiv:1911.00825
   ```
   
   
@@ -40,5 +40,5 @@ If you find our implementations helpful in your research, please cite us.
   
   or 
   
-  https://arxiv.org/abs/2001.03270
+  arXiv:2001.03270
   ```
