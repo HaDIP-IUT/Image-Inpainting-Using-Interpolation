@@ -17,6 +17,10 @@ If you find our implementations helpful in your research, please cite us.
   number={},
   pages={1-5},
   doi={10.1109/CSICC49403.2020.9050116}}
+  
+  or 
+  
+  https://arxiv.org/abs/1911.00825
   ```
   
   
@@ -33,4 +37,8 @@ If you find our implementations helpful in your research, please cite us.
   number={},
   pages={1-6},
   doi={10.1109/ICEE50131.2020.9260846}}
+  
+  or 
+  
+  https://arxiv.org/abs/2001.03270
   ```
